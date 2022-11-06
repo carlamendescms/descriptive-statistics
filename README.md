@@ -1,3 +1,8 @@
-# Estatística para Ciência de Dados
+# Exploratory Data Analytics and Descriptive Statistics
 
-Este repositório contem as notas de aulas, exercícios e desafios realizados durante cursos sobre Estatística para Ciência de Dados e Machine Learning.
+## [Ifood Challenge](https://github.com/carlamendescms/exploratory-data-descriptive-statistics/tree/main/ifood-analysis)
+
+
+Exploratory Data Analytics and Descriptive Statistics using Python on Ifood customer profiling. 
+
+In this challenge, I did some analysis of consumption data and customer profiling.
